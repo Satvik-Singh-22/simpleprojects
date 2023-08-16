@@ -1,3 +1,6 @@
+# pls download the pics from the pictures folder and keep it in the same folder as the current code before running
+#you can use different pics, but use same size or else it won't run properly, will improve later
+
 import os
 from tkinter import *
 from PIL import ImageTk, Image
